@@ -1,0 +1,3 @@
+package: github.com/grauwoelfchen/keycap
+import:
+- package: github.com/hybridgroup/gobot
